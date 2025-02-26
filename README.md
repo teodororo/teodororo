@@ -2,6 +2,7 @@
 
 I am Teodoro, an amazonian based in Brazil. You can find me in the following places:
 
+<a href="https://www.linkedin.com/in/giovanna-souza-teodoro/"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-linkedin-circle-1865873-2745480.png?f=webp" height="48"></a>
 <a href="mailto:giovanna.teod@gmail.com"> <img src="https://cdn3.iconfinder.com/data/icons/web-ui-3/128/Mail-2-512.png" height="48"></a>
 <a href="https://www.instagram.com/giovanna.teod/"> <img src="https://web.evanchen.cc/icons/social-instagram.png" height="48"></a>
 <a href="https://t.me/teodoro127"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" height="48"></a>
